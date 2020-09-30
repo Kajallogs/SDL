@@ -3,7 +3,7 @@
 *-*-*-*-*-*-*-*-*-*-*-*-* PROGRAM *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 #drive/My Drive/Assignment 1(b)/Kajal/SDL.txt 
 file=open("drive/My Drive/Assignment 1(b)/Kajal/SDL.txt","r")
-x=file.read(150)
+x=file.read(200)
 print(x)
 k=0
 words=x.split()
